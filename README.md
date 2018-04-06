@@ -6,6 +6,9 @@ There are two parts to your lab assignment, and each is in a different assignmen
 
 Put finishing touches on your About Me project and get it deployed. The more time you spend with this, the better you'll get at CSS, but keep in mind that you also have readings to do and need to get some rest and relaxation in as well! The next project we will start is challenging, so be sure to come into it refreshed and ready.
 
+### Deployment
+You'll deploy your About Me project on GitHub Pages. Directions on how to publish your master branch can be found [on GitHub](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages).
+
 ---
 
 ### Second Part: In lab today
